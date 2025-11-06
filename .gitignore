@@ -1,0 +1,7 @@
+#env files
+*.env
+
+#Jupiter checkpoints
+.ipynb_checkpoints
+*checkpoint.ipynb
+.ipynb_checkpoints/
